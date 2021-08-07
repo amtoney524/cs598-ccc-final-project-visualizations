@@ -1,0 +1,7 @@
+,CONFIG,INSTANCE,FRAMEWORK,TRAINING SPEED
+0,1node-4gpu,1-p3.8xlarge,DDP,372.581205
+1,2node-2gpu,2-p3.2xlarge,DDP,315.776377
+2,4node-4gpu,4-p3.2xlarge,DDP,190.525508
+3,1node-4gpu,1-p3.8xlarge,Horovod,235.972388
+4,2node-2gpu,2-p3.2xlarge,Horovod,439.631784
+5,4node-4gpu,4-p3.2xlarge,Horovod,274.905384

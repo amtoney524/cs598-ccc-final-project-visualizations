@@ -1,0 +1,750 @@
+Sat Jul 24 06:59:29 2021; ******** IP traffic monitor started ********
+Sat Jul 24 06:59:29 2021; TCP; eth0; 52 bytes; from 174.211.39.152:5768 to 172.31.1.109:22; first packet
+Sat Jul 24 06:59:30 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53428 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:30 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53428; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:31 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53430 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:31 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53430; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:32 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53432 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:32 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53432; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:33 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53434 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:33 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53434; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:34 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53436 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:34 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53436; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:35 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53438 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:35 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53438; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:36 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53440 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:36 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53440; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:37 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53442 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:37 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53442; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:38 2021; TCP; eth0; 88 bytes; from 172.31.1.109:22 to 174.211.39.152:5768; first packet
+Sat Jul 24 06:59:38 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53444 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:38 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53444; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:39 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53446 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:39 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53446; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:40 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53448 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:40 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53448; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:40 2021; UDP; eth0; 76 bytes; from 172.31.1.109:45536 to 169.254.169.123:123
+Sat Jul 24 06:59:40 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:45536
+Sat Jul 24 06:59:41 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53450 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:41 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53450; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:41 2021; TCP; eth0; 52 bytes; from 43.130.11.228:30732 to 172.31.1.109:1701; first packet (SYN)
+Sat Jul 24 06:59:41 2021; TCP; eth0; 40 bytes; from 172.31.1.109:1701 to 43.130.11.228:30732; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 52 bytes; avg flow rate      0.42 kbps
+Sat Jul 24 06:59:42 2021; TCP; eth0; 46 bytes; from 45.143.203.17:58103 to 172.31.1.109:33836; first packet (SYN)
+Sat Jul 24 06:59:42 2021; TCP; eth0; 40 bytes; from 172.31.1.109:33836 to 45.143.203.17:58103; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 06:59:42 2021; TCP; eth0; 46 bytes; from 45.143.203.17:58103 to 172.31.1.109:33836; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 06:59:42 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53452 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:42 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53452; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:43 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53454 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:43 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53454; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:44 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53456 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:44 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53456; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:45 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53458 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:45 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53458; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:46 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53460 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:46 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53460; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:47 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53462 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:47 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53462; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:48 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53464 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:48 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53464; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:49 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53466 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:49 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53466; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:50 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53468 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:50 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53468; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:51 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53470 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:51 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53470; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:51 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53472 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:51 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53472; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:52 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53474 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:52 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53474; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:52 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53476 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:52 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53476; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:53 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53478 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:53 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53478; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:53 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53480 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:53 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53480; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:54 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53482 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:54 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53482; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:54 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53484 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:54 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53484; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:55 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53486 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:55 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53486; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:55 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53488 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:55 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53488; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:56 2021; TCP; eth0; 46 bytes; from 92.63.197.55:59674 to 172.31.1.109:34394; first packet (SYN)
+Sat Jul 24 06:59:56 2021; TCP; eth0; 40 bytes; from 172.31.1.109:34394 to 92.63.197.55:59674; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 06:59:56 2021; TCP; eth0; 46 bytes; from 92.63.197.55:59674 to 172.31.1.109:34394; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 06:59:56 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53490 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:56 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53490; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:56 2021; UDP; eth0; 76 bytes; from 172.31.1.109:47518 to 169.254.169.123:123
+Sat Jul 24 06:59:56 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:47518
+Sat Jul 24 06:59:56 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53492 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:56 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53492; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:57 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53494 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:57 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53494; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:57 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53496 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:57 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8888 to 44.192.9.207:53496; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53732 to 3.91.19.29:8888; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 3.91.19.29:53732 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 172.31.1.109:8888 to 3.91.19.29:53732; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 3.91.19.29:8888 to 172.31.1.109:53732; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53498 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 172.31.1.109:8888 to 44.192.9.207:53498; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53500 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 172.31.1.109:8888 to 44.192.9.207:53500; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 52 bytes; from 44.192.9.207:53500 to 172.31.1.109:8888; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 06:59:58 2021; TCP; eth0; 52 bytes; from 44.192.9.207:53498 to 172.31.1.109:8888; FIN sent; 6 packets, 342 bytes, avg flow rate      2.74 kbps
+Sat Jul 24 06:59:58 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 44.192.9.207:53498; FIN acknowleged
+Sat Jul 24 06:59:58 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 44.192.9.207:53498; FIN sent; 5 packets, 276 bytes, avg flow rate      2.21 kbps
+Sat Jul 24 06:59:58 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 44.192.9.207:53500; FIN acknowleged
+Sat Jul 24 06:59:58 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 44.192.9.207:53500; FIN sent; 2 packets, 112 bytes, avg flow rate      0.90 kbps
+Sat Jul 24 06:59:58 2021; TCP; eth0; 52 bytes; from 44.192.9.207:53498 to 172.31.1.109:8888; FIN acknowleged
+Sat Jul 24 06:59:58 2021; TCP; eth0; 52 bytes; from 44.192.9.207:53500 to 172.31.1.109:8888; FIN acknowleged
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53734 to 3.91.19.29:8888; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 3.91.19.29:53734 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 172.31.1.109:8888 to 3.91.19.29:53734; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 3.91.19.29:8888 to 172.31.1.109:53734; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53502 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 172.31.1.109:8888 to 44.192.9.207:53502; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 44.192.9.207:53504 to 172.31.1.109:8888; first packet (SYN)
+Sat Jul 24 06:59:58 2021; TCP; eth0; 60 bytes; from 172.31.1.109:8888 to 44.192.9.207:53504; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:43430 to 172.31.1.109:52473; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:52473 to 172.31.0.56:43430; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 188 bytes; from 172.31.0.56:43430 to 172.31.1.109:52473; FIN sent; 4 packets, 356 bytes, avg flow rate      2.85 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:52473 to 172.31.0.56:43430; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:52473 to 172.31.0.56:43430; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:43430 to 172.31.1.109:52473; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:54818 to 172.31.0.56:42541; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:57234 to 172.31.0.56:44711; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:42541 to 172.31.1.109:54818; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 116 bytes; from 172.31.1.109:54818 to 172.31.0.56:42541; FIN sent; 4 packets, 284 bytes, avg flow rate      2.27 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:44711 to 172.31.1.109:57234; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:42541 to 172.31.1.109:54818; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:42541 to 172.31.1.109:54818; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54818 to 172.31.0.56:42541; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53958 to 172.31.1.109:54087; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:54087 to 172.31.0.56:53958; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53960 to 172.31.1.109:54087; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:54087 to 172.31.0.56:53960; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 188 bytes; from 172.31.0.56:53960 to 172.31.1.109:54087; FIN sent; 4 packets, 356 bytes, avg flow rate      2.85 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:57236 to 172.31.0.56:44711; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:44711 to 172.31.1.109:57236; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 188 bytes; from 172.31.1.109:57236 to 172.31.0.56:44711; FIN sent; 4 packets, 356 bytes, avg flow rate      2.85 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:44711 to 172.31.1.109:57236; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53962 to 172.31.1.109:54087; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:54087 to 172.31.0.56:53962; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 188 bytes; from 172.31.0.56:53962 to 172.31.1.109:54087; FIN sent; 4 packets, 356 bytes, avg flow rate      2.85 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:44711 to 172.31.1.109:57236; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:57236 to 172.31.0.56:44711; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41332 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41332; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41334 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41334; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41336 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41336; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41338 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41338; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41340 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41340; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41342 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41342; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41344 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41344; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41346 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41346; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41348 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41348; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41350 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41350; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41352 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41352; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41354 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41354; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41356 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41356; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41358 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41358; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41360 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41360; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41362 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41362; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:57238 to 172.31.0.56:44711; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:41364 to 172.31.1.109:43689; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:43689 to 172.31.0.56:41364; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:44711 to 172.31.1.109:57238; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 188 bytes; from 172.31.1.109:57238 to 172.31.0.56:44711; FIN sent; 4 packets, 356 bytes, avg flow rate      2.85 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54087 to 172.31.0.56:53960; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54087 to 172.31.0.56:53960; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:44711 to 172.31.1.109:57238; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53960 to 172.31.1.109:54087; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53754 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:44711 to 172.31.1.109:57238; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:57238 to 172.31.0.56:44711; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53754; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53756 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53756; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53758 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53758; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53760 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53760; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53762 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53762; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53764 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53764; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53766 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53766; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53768 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53768; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53770 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53770; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53772 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53772; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53774 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53774; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53776 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53776; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53778 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53778; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53780 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53780; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53782 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53782; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53784 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53784; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:53786 to 172.31.0.56:56091; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:56091 to 172.31.1.109:53786; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54087 to 172.31.0.56:53962; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54087 to 172.31.0.56:53962; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53962 to 172.31.1.109:54087; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:57274 to 172.31.0.56:44711; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53998 to 172.31.1.109:54087; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:54087 to 172.31.0.56:53998; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:44711 to 172.31.1.109:57274; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 188 bytes; from 172.31.1.109:57274 to 172.31.0.56:44711; FIN sent; 4 packets, 356 bytes, avg flow rate      2.85 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:44711 to 172.31.1.109:57274; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 188 bytes; from 172.31.0.56:53998 to 172.31.1.109:54087; FIN sent; 4 packets, 356 bytes, avg flow rate      2.85 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:57276 to 172.31.0.56:44711; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:44711 to 172.31.1.109:57276; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 188 bytes; from 172.31.1.109:57276 to 172.31.0.56:44711; FIN sent; 4 packets, 356 bytes, avg flow rate      2.85 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54087 to 172.31.0.56:53998; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54087 to 172.31.0.56:53998; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:44711 to 172.31.1.109:57276; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53998 to 172.31.1.109:54087; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42884 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42884; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42886 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:54000 to 172.31.1.109:54087; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:54087 to 172.31.0.56:54000; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42886; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42888 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 188 bytes; from 172.31.0.56:54000 to 172.31.1.109:54087; FIN sent; 4 packets, 356 bytes, avg flow rate      2.85 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:44711 to 172.31.1.109:57274; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:57274 to 172.31.0.56:44711; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42888; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42890 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39516 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39516; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42890; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42892 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39518 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39518; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42892; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42894 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42894; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39520 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39520; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42896 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39522 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42896; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39522; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42898 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39524 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39524; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42898; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42900 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42900; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42902 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39526 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39526; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42902; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42904 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42904; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39528 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39528; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42906 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42906; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39530 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39530; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42908 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42908; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39532 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39532; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42910 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42910; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39534 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39534; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42912 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42912; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39536 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39536; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42914 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42914; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:42916 to 172.31.0.56:53009; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39538 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:53009 to 172.31.1.109:42916; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39538; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39540 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39540; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54087 to 172.31.0.56:54000; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54087 to 172.31.0.56:54000; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:54000 to 172.31.1.109:54087; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39542 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39542; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39544 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39544; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39546 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39546; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.0.56:39548 to 172.31.1.109:41207; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 60 bytes; from 172.31.1.109:41207 to 172.31.0.56:39548; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.0.56:44711 to 172.31.1.109:57276; FIN sent; 3 packets, 164 bytes, avg flow rate      1.31 kbps
+Sat Jul 24 07:00:03 2021; TCP; eth0; 52 bytes; from 172.31.1.109:57276 to 172.31.0.56:44711; FIN acknowleged
+Sat Jul 24 07:00:03 2021; TCP; eth0; 46 bytes; from 162.142.125.158:44547 to 172.31.1.109:21308; first packet (SYN)
+Sat Jul 24 07:00:03 2021; TCP; eth0; 40 bytes; from 172.31.1.109:21308 to 162.142.125.158:44547; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:00:07 2021; TCP; eth0; 60 bytes; from 116.196.117.248:57132 to 172.31.1.109:6379; first packet (SYN)
+Sat Jul 24 07:00:07 2021; TCP; eth0; 40 bytes; from 172.31.1.109:6379 to 116.196.117.248:57132; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 60 bytes; avg flow rate      0.48 kbps
+Sat Jul 24 07:00:09 2021; TCP; eth0; 46 bytes; from 89.248.165.199:53562 to 172.31.1.109:1453; first packet (SYN)
+Sat Jul 24 07:00:09 2021; TCP; eth0; 40 bytes; from 172.31.1.109:1453 to 89.248.165.199:53562; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:00:09 2021; TCP; eth0; 46 bytes; from 89.248.165.199:53562 to 172.31.1.109:1453; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:00:10 2021; TCP; eth0; 60 bytes; from 5.188.62.248:36120 to 172.31.1.109:22; first packet (SYN)
+Sat Jul 24 07:00:10 2021; TCP; eth0; 60 bytes; from 172.31.1.109:22 to 5.188.62.248:36120; first packet (SYN)
+Sat Jul 24 07:00:11 2021; UDP; eth0; 71 bytes; from 172.31.1.109:35940 to 172.31.0.2:53
+Sat Jul 24 07:00:11 2021; UDP; eth0; 134 bytes; from 172.31.0.2:53 to 172.31.1.109:35940
+Sat Jul 24 07:00:11 2021; TCP; eth0; 52 bytes; from 5.188.62.248:36120 to 172.31.1.109:22; FIN sent; 10 packets, 1684 bytes, avg flow rate     13.47 kbps
+Sat Jul 24 07:00:11 2021; TCP; eth0; 52 bytes; from 172.31.1.109:22 to 5.188.62.248:36120; FIN acknowleged
+Sat Jul 24 07:00:11 2021; TCP; eth0; 52 bytes; from 172.31.1.109:22 to 5.188.62.248:36120; FIN sent; 11 packets, 2297 bytes, avg flow rate     18.38 kbps
+Sat Jul 24 07:00:11 2021; TCP; eth0; 52 bytes; from 5.188.62.248:36120 to 172.31.1.109:22; FIN acknowleged
+Sat Jul 24 07:00:13 2021; UDP; eth0; 76 bytes; from 172.31.1.109:40326 to 169.254.169.123:123
+Sat Jul 24 07:00:13 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:40326
+Sat Jul 24 07:00:24 2021; TCP; eth0; 46 bytes; from 45.135.232.99:50203 to 172.31.1.109:7057; first packet (SYN)
+Sat Jul 24 07:00:24 2021; TCP; eth0; 40 bytes; from 172.31.1.109:7057 to 45.135.232.99:50203; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:00:24 2021; TCP; eth0; 46 bytes; from 45.135.232.99:50203 to 172.31.1.109:7057; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:00:29 2021; UDP; eth0; 76 bytes; from 172.31.1.109:43036 to 169.254.169.123:123
+Sat Jul 24 07:00:29 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:43036
+Sat Jul 24 07:00:38 2021; TCP; eth0; 46 bytes; from 46.148.21.60:60000 to 172.31.1.109:21722; first packet (SYN)
+Sat Jul 24 07:00:38 2021; TCP; eth0; 40 bytes; from 172.31.1.109:21722 to 46.148.21.60:60000; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:00:45 2021; UDP; eth0; 76 bytes; from 172.31.1.109:59295 to 169.254.169.123:123
+Sat Jul 24 07:00:45 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:59295
+Sat Jul 24 07:00:48 2021; TCP; eth0; 46 bytes; from 89.248.165.61:44223 to 172.31.1.109:12458; first packet (SYN)
+Sat Jul 24 07:00:48 2021; TCP; eth0; 40 bytes; from 172.31.1.109:12458 to 89.248.165.61:44223; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:00:48 2021; TCP; eth0; 46 bytes; from 89.248.165.61:44223 to 172.31.1.109:12458; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:00:51 2021; UDP; eth0; 100 bytes; from fe80::21:a8ff:fe3f:565f:546 to ff02::1:2:547
+Sat Jul 24 07:00:54 2021; UDP; eth0; 76 bytes; from 172.31.1.109:54849 to 50.205.244.21:123
+Sat Jul 24 07:00:54 2021; UDP; eth0; 76 bytes; from 50.205.244.21:123 to 172.31.1.109:54849
+Sat Jul 24 07:01:01 2021; UDP; eth0; 76 bytes; from 172.31.1.109:56465 to 169.254.169.123:123
+Sat Jul 24 07:01:01 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:56465
+Sat Jul 24 07:01:04 2021; TCP; eth0; 46 bytes; from 45.135.232.85:54402 to 172.31.1.109:23797; first packet (SYN)
+Sat Jul 24 07:01:04 2021; TCP; eth0; 40 bytes; from 172.31.1.109:23797 to 45.135.232.85:54402; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:01:04 2021; TCP; eth0; 46 bytes; from 45.135.232.85:54402 to 172.31.1.109:23797; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:01:06 2021; TCP; eth0; 46 bytes; from 45.146.165.95:47625 to 172.31.1.109:10054; first packet (SYN)
+Sat Jul 24 07:01:06 2021; TCP; eth0; 40 bytes; from 172.31.1.109:10054 to 45.146.165.95:47625; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:01:06 2021; TCP; eth0; 46 bytes; from 45.146.165.95:47625 to 172.31.1.109:10054; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:01:17 2021; UDP; eth0; 76 bytes; from 172.31.1.109:52108 to 169.254.169.123:123
+Sat Jul 24 07:01:17 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:52108
+Sat Jul 24 07:01:28 2021; TCP; eth0; 46 bytes; from 89.248.165.61:44223 to 172.31.1.109:14242; first packet (SYN)
+Sat Jul 24 07:01:28 2021; TCP; eth0; 40 bytes; from 172.31.1.109:14242 to 89.248.165.61:44223; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:01:28 2021; TCP; eth0; 46 bytes; from 185.191.34.206:46044 to 172.31.1.109:6088; first packet (SYN)
+Sat Jul 24 07:01:28 2021; TCP; eth0; 40 bytes; from 172.31.1.109:6088 to 185.191.34.206:46044; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:01:29 2021; TCP; eth0; 46 bytes; from 89.248.165.61:44223 to 172.31.1.109:14242; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:01:29 2021; TCP; eth0; 46 bytes; from 185.191.34.206:46044 to 172.31.1.109:6088; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:01:33 2021; UDP; eth0; 76 bytes; from 172.31.1.109:52151 to 169.254.169.123:123
+Sat Jul 24 07:01:33 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:52151
+Sat Jul 24 07:01:40 2021; TCP; eth0; 46 bytes; from 185.156.73.104:56265 to 172.31.1.109:30582; first packet (SYN)
+Sat Jul 24 07:01:40 2021; TCP; eth0; 40 bytes; from 172.31.1.109:30582 to 185.156.73.104:56265; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:01:40 2021; TCP; eth0; 46 bytes; from 185.156.73.104:56265 to 172.31.1.109:30582; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:01:49 2021; UDP; eth0; 76 bytes; from 172.31.1.109:48532 to 169.254.169.123:123
+Sat Jul 24 07:01:49 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:48532
+Sat Jul 24 07:01:53 2021; TCP; eth0; 46 bytes; from 162.142.125.152:44716 to 172.31.1.109:8182; first packet (SYN)
+Sat Jul 24 07:01:53 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8182 to 162.142.125.152:44716; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:02:05 2021; UDP; eth0; 76 bytes; from 172.31.1.109:59710 to 169.254.169.123:123
+Sat Jul 24 07:02:05 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:59710
+Sat Jul 24 07:02:22 2021; UDP; eth0; 76 bytes; from 172.31.1.109:37786 to 169.254.169.123:123
+Sat Jul 24 07:02:22 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:37786
+Sat Jul 24 07:02:25 2021; TCP; eth0; 46 bytes; from 185.156.73.107:50212 to 172.31.1.109:43340; first packet (SYN)
+Sat Jul 24 07:02:25 2021; TCP; eth0; 40 bytes; from 172.31.1.109:43340 to 185.156.73.107:50212; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:02:25 2021; TCP; eth0; 46 bytes; from 185.156.73.107:50212 to 172.31.1.109:43340; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:02:28 2021; TCP; eth0; 46 bytes; from 162.142.125.25:45753 to 172.31.1.109:49502; first packet (SYN)
+Sat Jul 24 07:02:28 2021; TCP; eth0; 40 bytes; from 172.31.1.109:49502 to 162.142.125.25:45753; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:02:38 2021; UDP; eth0; 76 bytes; from 172.31.1.109:52801 to 169.254.169.123:123
+Sat Jul 24 07:02:38 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:52801
+Sat Jul 24 07:02:51 2021; UDP; eth0; 100 bytes; from fe80::21:a8ff:fe3f:565f:546 to ff02::1:2:547
+Sat Jul 24 07:02:54 2021; UDP; eth0; 76 bytes; from 172.31.1.109:42543 to 169.254.169.123:123
+Sat Jul 24 07:02:54 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:42543
+Sat Jul 24 07:03:04 2021; TCP; eth0; 46 bytes; from 89.248.165.61:44223 to 172.31.1.109:11526; first packet (SYN)
+Sat Jul 24 07:03:04 2021; TCP; eth0; 40 bytes; from 172.31.1.109:11526 to 89.248.165.61:44223; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:03:04 2021; TCP; eth0; 46 bytes; from 89.248.165.61:44223 to 172.31.1.109:11526; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:03:10 2021; UDP; eth0; 76 bytes; from 172.31.1.109:56714 to 169.254.169.123:123
+Sat Jul 24 07:03:10 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:56714
+Sat Jul 24 07:03:13 2021; TCP; eth0; 46 bytes; from 167.248.133.81:14136 to 172.31.1.109:9488; first packet (SYN)
+Sat Jul 24 07:03:13 2021; TCP; eth0; 40 bytes; from 172.31.1.109:9488 to 167.248.133.81:14136; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:03:26 2021; UDP; eth0; 76 bytes; from 172.31.1.109:43494 to 169.254.169.123:123
+Sat Jul 24 07:03:26 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:43494
+Sat Jul 24 07:03:36 2021; TCP; eth0; 46 bytes; from 162.142.125.148:60707 to 172.31.1.109:6699; first packet (SYN)
+Sat Jul 24 07:03:36 2021; TCP; eth0; 40 bytes; from 172.31.1.109:6699 to 162.142.125.148:60707; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:03:42 2021; UDP; eth0; 76 bytes; from 172.31.1.109:54010 to 169.254.169.123:123
+Sat Jul 24 07:03:42 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:54010
+Sat Jul 24 07:03:52 2021; TCP; eth0; 46 bytes; from 182.75.99.50:22644 to 172.31.1.109:445; first packet (SYN)
+Sat Jul 24 07:03:52 2021; TCP; eth0; 40 bytes; from 172.31.1.109:445 to 182.75.99.50:22644; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:03:59 2021; UDP; eth0; 76 bytes; from 172.31.1.109:53666 to 169.254.169.123:123
+Sat Jul 24 07:03:59 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:53666
+Sat Jul 24 07:04:12 2021; TCP; eth0; 46 bytes; from 5.188.87.55:49298 to 172.31.1.109:39053; first packet (SYN)
+Sat Jul 24 07:04:12 2021; TCP; eth0; 40 bytes; from 172.31.1.109:39053 to 5.188.87.55:49298; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:04:12 2021; TCP; eth0; 46 bytes; from 5.188.87.55:49298 to 172.31.1.109:39053; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:04:15 2021; UDP; eth0; 76 bytes; from 172.31.1.109:39591 to 169.254.169.123:123
+Sat Jul 24 07:04:15 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:39591
+Sat Jul 24 07:04:23 2021; TCP; eth0; 46 bytes; from 45.146.165.16:47593 to 172.31.1.109:3373; first packet (SYN)
+Sat Jul 24 07:04:23 2021; TCP; eth0; 40 bytes; from 172.31.1.109:3373 to 45.146.165.16:47593; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:04:23 2021; TCP; eth0; 46 bytes; from 45.146.165.16:47593 to 172.31.1.109:3373; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:04:31 2021; UDP; eth0; 76 bytes; from 172.31.1.109:34246 to 169.254.169.123:123
+Sat Jul 24 07:04:31 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:34246
+Sat Jul 24 07:04:32 2021; TCP; eth0; 46 bytes; from 89.248.165.61:44223 to 172.31.1.109:11205; first packet (SYN)
+Sat Jul 24 07:04:32 2021; TCP; eth0; 40 bytes; from 172.31.1.109:11205 to 89.248.165.61:44223; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:04:32 2021; TCP; eth0; 46 bytes; from 89.248.165.61:44223 to 172.31.1.109:11205; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:04:42 2021; TCP; eth0; 46 bytes; from 5.188.87.34:49800 to 172.31.1.109:58553; first packet (SYN)
+Sat Jul 24 07:04:42 2021; TCP; eth0; 40 bytes; from 172.31.1.109:58553 to 5.188.87.34:49800; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:04:42 2021; TCP; eth0; 46 bytes; from 5.188.87.34:49800 to 172.31.1.109:58553; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:04:45 2021; UDP; eth0; 100 bytes; from fe80::21:a8ff:fe3f:565f:546 to ff02::1:2:547
+Sat Jul 24 07:04:47 2021; UDP; eth0; 76 bytes; from 172.31.1.109:45846 to 169.254.169.123:123
+Sat Jul 24 07:04:47 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:45846
+Sat Jul 24 07:04:55 2021; UDP; eth0; 76 bytes; from 172.31.1.109:53849 to 72.14.183.39:123
+Sat Jul 24 07:04:55 2021; UDP; eth0; 76 bytes; from 72.14.183.39:123 to 172.31.1.109:53849
+Sat Jul 24 07:05:03 2021; UDP; eth0; 76 bytes; from 172.31.1.109:49953 to 169.254.169.123:123
+Sat Jul 24 07:05:03 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:49953
+Sat Jul 24 07:05:12 2021; UDP; eth0; 76 bytes; from 172.31.1.109:55672 to 50.205.244.21:123
+Sat Jul 24 07:05:12 2021; UDP; eth0; 76 bytes; from 50.205.244.21:123 to 172.31.1.109:55672
+Sat Jul 24 07:05:16 2021; TCP; eth0; 46 bytes; from 89.248.165.61:44223 to 172.31.1.109:13466; first packet (SYN)
+Sat Jul 24 07:05:16 2021; TCP; eth0; 40 bytes; from 172.31.1.109:13466 to 89.248.165.61:44223; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:05:16 2021; TCP; eth0; 46 bytes; from 89.248.165.61:44223 to 172.31.1.109:13466; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53958 to 172.31.1.109:54087; FIN sent; 9 packets, 1692 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:44711 to 172.31.1.109:57234; FIN sent; 8 packets, 424 bytes, avg flow rate      0.01 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41364 to 172.31.1.109:43689; FIN sent; 524 packets, 29340 bytes, avg flow rate      0.74 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41332 to 172.31.1.109:43689; FIN sent; 37 packets, 272272 bytes, avg flow rate      6.91 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41334 to 172.31.1.109:43689; FIN sent; 37 packets, 2464 bytes, avg flow rate      0.06 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41336 to 172.31.1.109:43689; FIN sent; 37 packets, 272272 bytes, avg flow rate      6.91 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41338 to 172.31.1.109:43689; FIN sent; 37 packets, 2464 bytes, avg flow rate      0.06 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41340 to 172.31.1.109:43689; FIN sent; 37 packets, 272272 bytes, avg flow rate      6.91 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41342 to 172.31.1.109:43689; FIN sent; 37 packets, 2464 bytes, avg flow rate      0.06 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41344 to 172.31.1.109:43689; FIN sent; 37 packets, 272272 bytes, avg flow rate      6.91 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41346 to 172.31.1.109:43689; FIN sent; 37 packets, 2464 bytes, avg flow rate      0.06 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41350 to 172.31.1.109:43689; FIN sent; 36 packets, 2396 bytes, avg flow rate      0.06 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41348 to 172.31.1.109:43689; FIN sent; 36 packets, 264028 bytes, avg flow rate      6.70 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41352 to 172.31.1.109:43689; FIN sent; 36 packets, 264028 bytes, avg flow rate      6.70 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41354 to 172.31.1.109:43689; FIN sent; 36 packets, 2396 bytes, avg flow rate      0.06 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41356 to 172.31.1.109:43689; FIN sent; 36 packets, 264028 bytes, avg flow rate      6.70 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41358 to 172.31.1.109:43689; FIN sent; 36 packets, 2396 bytes, avg flow rate      0.06 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41360 to 172.31.1.109:43689; FIN sent; 36 packets, 264028 bytes, avg flow rate      6.70 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41362 to 172.31.1.109:43689; FIN sent; 36 packets, 2396 bytes, avg flow rate      0.06 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:57234 to 172.31.0.56:44711; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53786; FIN sent; 1777 packets, 92412 bytes, avg flow rate      2.34 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53754; FIN sent; 136 packets, 7080 bytes, avg flow rate      0.18 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53758; FIN sent; 153 packets, 7964 bytes, avg flow rate      0.20 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53756; FIN sent; 165 packets, 8588 bytes, avg flow rate      0.22 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53760; FIN sent; 138 packets, 7184 bytes, avg flow rate      0.18 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53762; FIN sent; 157 packets, 8172 bytes, avg flow rate      0.20 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53764; FIN sent; 160 packets, 8328 bytes, avg flow rate      0.21 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53766; FIN sent; 140 packets, 7288 bytes, avg flow rate      0.18 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53768; FIN sent; 153 packets, 7964 bytes, avg flow rate      0.20 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53770; FIN sent; 141 packets, 7340 bytes, avg flow rate      0.18 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53772; FIN sent; 160 packets, 8328 bytes, avg flow rate      0.21 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53774; FIN sent; 154 packets, 8016 bytes, avg flow rate      0.20 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53776; FIN sent; 146 packets, 7600 bytes, avg flow rate      0.19 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53778; FIN sent; 152 packets, 7912 bytes, avg flow rate      0.20 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53780; FIN sent; 149 packets, 7756 bytes, avg flow rate      0.19 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53782; FIN sent; 145 packets, 7548 bytes, avg flow rate      0.18 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53784; FIN sent; 149 packets, 7756 bytes, avg flow rate      0.19 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39548 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39516 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39518 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39520 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39522 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39526 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39524 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39528 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39530 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39532 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39534 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39536 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39538 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39540 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39542 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39544 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39546 to 172.31.1.109:41207; FIN sent; 4 packets, 220 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:57234 to 172.31.0.56:44711; FIN sent; 10 packets, 1744 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54087 to 172.31.0.56:53958; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:54087 to 172.31.0.56:53958; FIN sent; 8 packets, 424 bytes, avg flow rate      0.01 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:44711 to 172.31.1.109:57234; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53958 to 172.31.1.109:54087; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53766 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53784 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53760 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53782 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53758 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53780 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53778 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53786 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53776 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53774 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53772 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53770 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53768 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53764 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53762 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53756 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53754 to 172.31.0.56:56091; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42916; FIN sent; 636 packets, 33080 bytes, avg flow rate      0.84 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42884; FIN sent; 73 packets, 3804 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42886; FIN sent; 84 packets, 4376 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42888; FIN sent; 73 packets, 3804 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42890; FIN sent; 81 packets, 4220 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42894; FIN sent; 77 packets, 4012 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42892; FIN sent; 89 packets, 4636 bytes, avg flow rate      0.11 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42896; FIN sent; 77 packets, 4012 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42898; FIN sent; 79 packets, 4116 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42900; FIN sent; 74 packets, 3856 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42902; FIN sent; 82 packets, 4272 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42906; FIN sent; 74 packets, 3856 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42908; FIN sent; 87 packets, 4532 bytes, avg flow rate      0.11 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42904; FIN sent; 73 packets, 3804 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42910; FIN sent; 69 packets, 3596 bytes, avg flow rate      0.09 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42912; FIN sent; 72 packets, 3752 bytes, avg flow rate      0.09 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42914; FIN sent; 73 packets, 3804 bytes, avg flow rate      0.10 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 44.192.9.207:53502 to 172.31.1.109:8888; FIN sent; 24 packets, 1501 bytes, avg flow rate      0.03 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 44.192.9.207:53504 to 172.31.1.109:8888; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 44.192.9.207:53502; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 44.192.9.207:53502; FIN sent; 19 packets, 1175 bytes, avg flow rate      0.02 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 44.192.9.207:53504; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 44.192.9.207:53504; FIN sent; 2 packets, 112 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 44.192.9.207:53502 to 172.31.1.109:8888; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 44.192.9.207:53504 to 172.31.1.109:8888; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53786 to 172.31.0.56:56091; FIN sent; 1781 packets, 99784 bytes, avg flow rate      2.53 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53754 to 172.31.0.56:56091; FIN sent; 364 packets, 2443808 bytes, avg flow rate     62.06 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53756 to 172.31.0.56:56091; FIN sent; 227 packets, 1274625 bytes, avg flow rate     32.37 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53758 to 172.31.0.56:56091; FIN sent; 377 packets, 2566781 bytes, avg flow rate     65.18 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53760 to 172.31.0.56:56091; FIN sent; 183 packets, 875958 bytes, avg flow rate     22.24 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53762 to 172.31.0.56:56091; FIN sent; 371 packets, 2512775 bytes, avg flow rate     63.82 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53764 to 172.31.0.56:56091; FIN sent; 201 packets, 1043762 bytes, avg flow rate     26.50 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53766 to 172.31.0.56:56091; FIN sent; 322 packets, 2047416 bytes, avg flow rate     51.99 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53768 to 172.31.0.56:56091; FIN sent; 191 packets, 1027006 bytes, avg flow rate     26.08 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53770 to 172.31.0.56:56091; FIN sent; 346 packets, 2261672 bytes, avg flow rate     57.43 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53772 to 172.31.0.56:56091; FIN sent; 221 packets, 1221209 bytes, avg flow rate     31.01 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53774 to 172.31.0.56:56091; FIN sent; 382 packets, 2605306 bytes, avg flow rate     66.16 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53754; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53786; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53776 to 172.31.0.56:56091; FIN sent; 205 packets, 1077193 bytes, avg flow rate     27.35 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53756; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53758; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53778 to 172.31.0.56:56091; FIN sent; 365 packets, 2459096 bytes, avg flow rate     62.45 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53760; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53762; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53780 to 172.31.0.56:56091; FIN sent; 185 packets, 913674 bytes, avg flow rate     23.20 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53782 to 172.31.0.56:56091; FIN sent; 330 packets, 2115197 bytes, avg flow rate     53.71 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53764; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53772; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53768; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53766; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53770; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53776; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53774; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53784 to 172.31.0.56:56091; FIN sent; 186 packets, 982454 bytes, avg flow rate     24.94 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53780; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53778; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53782; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:56091 to 172.31.1.109:53784; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41364; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41364; FIN sent; 523 packets, 27204 bytes, avg flow rate      0.69 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41332; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41332; FIN sent; 36 packets, 1880 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41334; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41334; FIN sent; 36 packets, 1880 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41336; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41336; FIN sent; 36 packets, 1880 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41338; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41338; FIN sent; 36 packets, 1880 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41340; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41340; FIN sent; 36 packets, 1880 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41342; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41342; FIN sent; 36 packets, 1880 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41344; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41344; FIN sent; 36 packets, 1880 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41346; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41346; FIN sent; 36 packets, 1880 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41348; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41348; FIN sent; 35 packets, 1828 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41364 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41350; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41350; FIN sent; 35 packets, 1828 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41352; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41352; FIN sent; 35 packets, 1828 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41354; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41354; FIN sent; 35 packets, 1828 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41334 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41338 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41332 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41336 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41344 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41342 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41356; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41356; FIN sent; 35 packets, 1828 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41340 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41352 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41358; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41358; FIN sent; 35 packets, 1828 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41346 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41360; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41360; FIN sent; 35 packets, 1828 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41362; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:43689 to 172.31.0.56:41362; FIN sent; 35 packets, 1828 bytes, avg flow rate      0.04 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41350 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41354 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41348 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41356 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41358 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41360 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:41362 to 172.31.1.109:43689; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42914 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42912 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42902 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42904 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42908 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42896 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42910 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42892 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42906 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42900 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42890 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42898 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42894 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42916 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42888 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42886 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42884 to 172.31.0.56:53009; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42916 to 172.31.0.56:53009; FIN sent; 643 packets, 36044 bytes, avg flow rate      0.91 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42884 to 172.31.0.56:53009; FIN sent; 213 packets, 1522707 bytes, avg flow rate     38.66 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42886 to 172.31.0.56:53009; FIN sent; 232 packets, 1685505 bytes, avg flow rate     42.80 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42888 to 172.31.0.56:53009; FIN sent; 194 packets, 1316972 bytes, avg flow rate     33.44 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42890 to 172.31.0.56:53009; FIN sent; 226 packets, 1647104 bytes, avg flow rate     41.82 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42892 to 172.31.0.56:53009; FIN sent; 230 packets, 1684651 bytes, avg flow rate     42.78 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42894 to 172.31.0.56:53009; FIN sent; 197 packets, 1384254 bytes, avg flow rate     35.15 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42896 to 172.31.0.56:53009; FIN sent; 223 packets, 1603768 bytes, avg flow rate     40.73 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42898 to 172.31.0.56:53009; FIN sent; 211 packets, 1493591 bytes, avg flow rate     37.93 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42900 to 172.31.0.56:53009; FIN sent; 216 packets, 1543924 bytes, avg flow rate     39.21 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42884; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42916; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42890; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42886; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42888; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42902 to 172.31.0.56:53009; FIN sent; 214 packets, 1527272 bytes, avg flow rate     38.78 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42892; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42904 to 172.31.0.56:53009; FIN sent; 193 packets, 1295319 bytes, avg flow rate     32.90 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42896; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42906 to 172.31.0.56:53009; FIN sent; 211 packets, 1498919 bytes, avg flow rate     38.06 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42894; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42898; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42900; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42908 to 172.31.0.56:53009; FIN sent; 218 packets, 1563821 bytes, avg flow rate     39.71 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42910 to 172.31.0.56:53009; FIN sent; 208 packets, 1471916 bytes, avg flow rate     37.38 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42912 to 172.31.0.56:53009; FIN sent; 210 packets, 1492069 bytes, avg flow rate     37.89 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:42914 to 172.31.0.56:53009; FIN sent; 183 packets, 1248241 bytes, avg flow rate     31.70 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42902; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42904; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42906; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42908; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42910; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42912; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:53009 to 172.31.1.109:42914; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39548; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39548; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39516; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39516; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39518; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39518; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39520; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39520; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39522; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39522; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39524; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39524; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39526; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39526; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39528; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39528; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39530; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39530; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39548 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39532; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39532; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39520 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39516 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39534; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39534; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39522 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39518 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39536; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39536; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39538; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39538; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39540; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39540; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39542; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39542; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39526 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39544; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39544; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39524 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39546; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:41207 to 172.31.0.56:39546; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39528 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39530 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39532 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39534 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39536 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39540 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39538 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39542 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39544 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.0.56:39546 to 172.31.1.109:41207; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 3.91.19.29:53732; FIN sent; 223 packets, 12338 bytes, avg flow rate      0.30 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 3.91.19.29:53734; FIN sent; 2 packets, 112 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 3.91.19.29:8888 to 172.31.1.109:53734; FIN sent; 2 packets, 112 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 3.91.19.29:8888 to 172.31.1.109:53732; FIN sent; 223 packets, 12338 bytes, avg flow rate      0.30 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53734 to 3.91.19.29:8888; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53734 to 3.91.19.29:8888; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53732 to 3.91.19.29:8888; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:53732 to 3.91.19.29:8888; FIN sent; 226 packets, 15470 bytes, avg flow rate      0.38 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 3.91.19.29:53732 to 172.31.1.109:8888; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 3.91.19.29:53732 to 172.31.1.109:8888; FIN sent; 226 packets, 15470 bytes, avg flow rate      0.38 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 3.91.19.29:53732; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 3.91.19.29:8888 to 172.31.1.109:53732; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 3.91.19.29:53734 to 172.31.1.109:8888; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 3.91.19.29:53734 to 172.31.1.109:8888; FIN sent; 3 packets, 164 bytes, avg flow rate      0.00 kbps
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 172.31.1.109:8888 to 3.91.19.29:53734; FIN acknowleged
+Sat Jul 24 07:05:18 2021; TCP; eth0; 52 bytes; from 3.91.19.29:8888 to 172.31.1.109:53734; FIN acknowleged
+Sat Jul 24 07:05:20 2021; UDP; eth0; 76 bytes; from 172.31.1.109:58191 to 169.254.169.123:123
+Sat Jul 24 07:05:20 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:58191
+Sat Jul 24 07:05:22 2021; TCP; eth0; 46 bytes; from 74.63.216.186:50267 to 172.31.1.109:5061; first packet (SYN)
+Sat Jul 24 07:05:22 2021; TCP; eth0; 40 bytes; from 172.31.1.109:5061 to 74.63.216.186:50267; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:05:22 2021; TCP; eth0; 46 bytes; from 74.63.216.186:50267 to 172.31.1.109:5061; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:05:23 2021; TCP; eth0; 46 bytes; from 45.227.255.57:49137 to 172.31.1.109:49; first packet (SYN)
+Sat Jul 24 07:05:23 2021; TCP; eth0; 40 bytes; from 172.31.1.109:49 to 45.227.255.57:49137; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:05:23 2021; TCP; eth0; 46 bytes; from 45.227.255.57:49137 to 172.31.1.109:49; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:05:24 2021; TCP; eth0; 46 bytes; from 162.142.125.146:32458 to 172.31.1.109:8447; first packet (SYN)
+Sat Jul 24 07:05:24 2021; TCP; eth0; 40 bytes; from 172.31.1.109:8447 to 162.142.125.146:32458; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:05:36 2021; UDP; eth0; 76 bytes; from 172.31.1.109:49456 to 169.254.169.123:123
+Sat Jul 24 07:05:36 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:49456
+Sat Jul 24 07:05:42 2021; TCP; eth0; 46 bytes; from 162.142.125.155:25994 to 172.31.1.109:12501; first packet (SYN)
+Sat Jul 24 07:05:42 2021; TCP; eth0; 40 bytes; from 172.31.1.109:12501 to 162.142.125.155:25994; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:05:45 2021; TCP; eth0; 46 bytes; from 162.142.125.145:48485 to 172.31.1.109:9909; first packet (SYN)
+Sat Jul 24 07:05:45 2021; TCP; eth0; 40 bytes; from 172.31.1.109:9909 to 162.142.125.145:48485; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:05:47 2021; TCP; eth0; 46 bytes; from 46.161.27.112:49943 to 172.31.1.109:19537; first packet (SYN)
+Sat Jul 24 07:05:47 2021; TCP; eth0; 40 bytes; from 172.31.1.109:19537 to 46.161.27.112:49943; Connection reset; 1 packets, 40 bytes, avg flow rate      0.32 kbps; opposite direction 1 packets, 46 bytes; avg flow rate      0.37 kbps
+Sat Jul 24 07:05:47 2021; TCP; eth0; 46 bytes; from 46.161.27.112:49943 to 172.31.1.109:19537; Connection reset; 1 packets, 46 bytes, avg flow rate      0.37 kbps; opposite direction 0 packets, 0 bytes; avg flow rate      0.00 kbps
+Sat Jul 24 07:05:52 2021; UDP; eth0; 76 bytes; from 172.31.1.109:59329 to 169.254.169.123:123
+Sat Jul 24 07:05:52 2021; UDP; eth0; 76 bytes; from 169.254.169.123:123 to 172.31.1.109:59329

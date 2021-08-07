@@ -1,0 +1,1 @@
+{"node_rank": 0, "num_nodes": 2, "node_gpus": 1, "epochs": 20, "bucketsize": 35, "start_datetime": "2021-07-24T05:24:25.940977+00:00 UTC", "end_datetime": "2021-07-24T05:29:42.789950+00:00 UTC", "best_epoch": 0, "best_acc": "tensor(0.4802, device='cuda:0', dtype=torch.float64)", "notes": "", "elapsed_time": "316.848973"}

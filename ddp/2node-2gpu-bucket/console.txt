@@ -1,0 +1,75 @@
+=======================================================================
+                PyTorch Horovod Training Output
+Started at: 2021-07-24T17:23:15.390632+00:00 UTC
+Node rank: 0
+Number of nodes: 2
+Number of GPUs per node: 1
+Number of ephochs: 20
+Max batch size (MiB): 32
+=======================================================================
+Datetime of ephoch 0: 2021-07-24T17:23:37.945752+00:00 UTC
+Epoch: 1/20, Val accuracy=0.966911792755127
+********************
+Datetime of ephoch 1: 2021-07-24T17:23:59.160405+00:00 UTC
+Epoch: 2/20, Val accuracy=0.96875
+********************
+Datetime of ephoch 2: 2021-07-24T17:24:21.060203+00:00 UTC
+Epoch: 3/20, Val accuracy=0.9806985259056091
+********************
+Datetime of ephoch 3: 2021-07-24T17:24:42.234809+00:00 UTC
+Epoch: 4/20, Val accuracy=0.9779411554336548
+********************
+Datetime of ephoch 4: 2021-07-24T17:25:03.311165+00:00 UTC
+Epoch: 5/20, Val accuracy=0.9788603186607361
+********************
+Datetime of ephoch 5: 2021-07-24T17:25:24.862547+00:00 UTC
+Epoch: 6/20, Val accuracy=0.9751838445663452
+********************
+Datetime of ephoch 6: 2021-07-24T17:25:46.342092+00:00 UTC
+Epoch: 7/20, Val accuracy=0.9816176295280457
+********************
+Datetime of ephoch 7: 2021-07-24T17:26:07.864497+00:00 UTC
+Epoch: 8/20, Val accuracy=0.9770220518112183
+********************
+Datetime of ephoch 8: 2021-07-24T17:26:29.075852+00:00 UTC
+Epoch: 9/20, Val accuracy=0.9926470518112183
+********************
+Datetime of ephoch 9: 2021-07-24T17:26:50.242837+00:00 UTC
+Epoch: 10/20, Val accuracy=0.9852941036224365
+********************
+Datetime of ephoch 10: 2021-07-24T17:27:11.221219+00:00 UTC
+Epoch: 11/20, Val accuracy=0.9770220518112183
+********************
+Datetime of ephoch 11: 2021-07-24T17:27:31.604055+00:00 UTC
+Epoch: 12/20, Val accuracy=0.9788603186607361
+********************
+Datetime of ephoch 12: 2021-07-24T17:27:52.497649+00:00 UTC
+Epoch: 13/20, Val accuracy=0.9806985259056091
+********************
+Datetime of ephoch 13: 2021-07-24T17:28:13.277497+00:00 UTC
+Epoch: 14/20, Val accuracy=0.9834558963775635
+********************
+Datetime of ephoch 14: 2021-07-24T17:28:34.267889+00:00 UTC
+Epoch: 15/20, Val accuracy=0.658744752407074
+********************
+Datetime of ephoch 15: 2021-07-24T17:28:55.067487+00:00 UTC
+Epoch: 16/20, Val accuracy=0.9954044222831726
+********************
+Datetime of ephoch 16: 2021-07-24T17:29:16.374950+00:00 UTC
+Epoch: 17/20, Val accuracy=0.9880514740943909
+********************
+Datetime of ephoch 17: 2021-07-24T17:29:37.785826+00:00 UTC
+Epoch: 18/20, Val accuracy=0.9908088445663452
+********************
+Datetime of ephoch 18: 2021-07-24T17:29:58.453507+00:00 UTC
+Epoch: 19/20, Val accuracy=0.9659926295280457
+********************
+Datetime of ephoch 19: 2021-07-24T17:30:19.333129+00:00 UTC
+Epoch: 20/20, Val accuracy=0.9889705777168274
+********************
+=======================================================================
+                PyTorch Horovod Model Training Results:
+Completed at: 2021-07-24T17:30:19.475234+00:00 UTC
+Elaplsed time: 424.084602 seconds
+Best Val Acc= 0.9954044222831726 at Epoch: 14
+=======================================================================

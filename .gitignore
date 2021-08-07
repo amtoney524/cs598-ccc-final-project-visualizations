@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+backups/
+venv/
+vis-bak/
